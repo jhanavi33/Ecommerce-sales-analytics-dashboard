@@ -25,7 +25,7 @@ Customer Insights
 Geographic Revenue Distribution
 Top 5 Products by Quantity Sold
 
-# Sales Performance Dashboard
+## Sales Performance Dashboard
 Top Selling Products
 Supplier Performance Analysis
 Weekly Revenue Trend
