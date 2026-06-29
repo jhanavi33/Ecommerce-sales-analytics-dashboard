@@ -4,16 +4,16 @@
 The objective of this project is to develop an interactive E-Commerce Sales Analytics Dashboard that enables business stakeholders to monitor sales performance, analyze customer purchasing behavior, evaluate product and supplier performance, and identify regional sales trends. The dashboard supports data-driven decision-making by transforming raw transactional data into meaningful business insights.
 
 ## Business Questions (KPIs)
-What is the total revenue generated?
-How many products were sold?
-What is the average unit price?
-How does monthly sales performance vary throughout the year?
-Which products generate the highest sales volume?
-Which suppliers contribute the most to revenue?
-How is revenue distributed across different geographical regions?
-Which store divisions contribute the highest revenue?
-What is the distribution of different transaction types?
-What are the key customer purchasing insights?
+-What is the total revenue generated?
+-How many products were sold?
+-What is the average unit price?
+-How does monthly sales performance vary throughout the year?
+-Which products generate the highest sales volume?
+-Which suppliers contribute the most to revenue?
+-How is revenue distributed across different geographical regions?
+-Which store divisions contribute the highest revenue?
+-What is the distribution of different transaction types?
+-What are the key customer purchasing insights?
 
 # Dashboard Features
 ## Executive Dashboard
@@ -42,10 +42,14 @@ Divisional Performance Comparison
 <a href="https://github.com/jhanavi33/Ecommerce-sales-analytics-dashboard/blob/main/Screenshot%202026-06-29%20210553.png">View dashboard 2</a>
 
 ## Project Insights
-Generated $105M in total revenue with a positive Year-over-Year growth of 16.12%.
-Identified the highest-selling products based on quantity and revenue contribution.
-Analyzed monthly sales trends to identify seasonal demand patterns.
-Evaluated supplier performance to determine major revenue contributors.
-Compared store division performance across different geographical regions.
-Examined customer purchasing behavior and transaction type distribution for business insights.
-Built an interactive reporting solution enabling users to filter and analyze data dynamically.
+-Generated $105M in total revenue with a positive Year-over-Year growth of 16.12%.
+-Identified the highest-selling products based on quantity and revenue contribution.
+-Analyzed monthly sales trends to identify seasonal demand patterns.
+-Evaluated supplier performance to determine major revenue contributors.
+-Compared store division performance across different geographical regions.
+-Examined customer purchasing behavior and transaction type distribution for business insights.
+-Built an interactive reporting solution enabling users to filter and analyze data dynamically.
+
+# Final Conclusion
+
+This dashboard demonstrates how Microsoft Excel can be used as a powerful Business Intelligence tool to transform raw sales data into actionable insights. By analyzing revenue trends, customer behavior, supplier performance, product sales, and regional performance, the dashboard provides valuable information that can help organizations optimize sales strategies, improve operational efficiency, and support informed business decisions.
